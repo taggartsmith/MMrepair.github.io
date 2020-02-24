@@ -1,0 +1,63 @@
+.navigation-wrapper{
+    background-color: #1e1f26;
+    display: flex;
+    justify-content: space-between;
+    text-align: justify;
+    color: #fdfcf9;
+    align-items: center;
+    padding: 5px 10px;
+    margin: -10px;
+}
+
+.navigation-wrapper > .sign-up{
+    display: flex;
+    align-items: center;
+}
+
+.navigation-wrapper > .sign-up > .create{
+    padding: 15px;
+    background-color: #36383f;
+    border-radius: 7px;
+    border: solid #1e1f26;
+    letter-spacing: 1.5px;
+}
+.navigation-wrapper > .sign-up > .login{
+    padding: 15px;
+    background-color: #36383f;
+    border-radius: 7px;
+    border: solid #1e1f26;
+    letter-spacing: 1.5px;
+}
+.navigation-wrapper > .sign-up > .signing-up{
+    padding: 15px;
+    background-color: #36383f;
+    border-radius: 7px;
+    border: solid #1e1f26;
+    letter-spacing: 1.5px;
+}
+.navigation-wrapper > .sign-up > .search-logo i{
+    padding: 15px;
+    color: #797c89;
+    height: 100%;
+    font-size: 25px;
+}
+
+.navigation-wrapper > .sign-up > .create i{
+    color: #4bcc78;
+}
+
+.navigation-wrapper > .codepen-logo img{
+    font-size: 100px;
+    background-color: none;
+}
+
+/* same-line-links */
+.navigation-wrapper > .section-navigation > .same-line-links {
+    display: flex;
+    justify-content: center;
+}
+
+.navigation-wrapper > .section-navigation > .explore{
+    color: rgb(233, 223, 39);
+}
+

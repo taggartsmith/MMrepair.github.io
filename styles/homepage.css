@@ -14,13 +14,14 @@
     padding: 1px 20px;
     background-color: #11122b;
     color: #cbcbcb;
-    width: 290px;
+    width: 230px;
     border-radius: 2px;
+    text-align: center;
 }
 
 .hero-section > .bottom-heading {
-    background-color: #cea135;
-    color: #11122b;
+    background-color: #65ac83;
+    color: #061A40;
     padding: 1px 20px;
     margin-top: 15px;
     width: 107px;
@@ -29,10 +30,9 @@
 /* Featrues section styles */
 .features-section{
     height: 400px;
-    background-image: url(../images/fries-multiply-bg.jpg);
-    background-color: #cea135;
+    background-color: #FAFAFF;
     border-top: 10px solid white;
-    color: #11122b;
+    color: #061A40;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -56,7 +56,7 @@
 }
 
 .features-section > .columns-wrapper > .column:hover {
-    border-bottom: 5px solid #11122b;
+    border-bottom: 5px solid #061A40;
 }
 
 .features-section > .columns-wrapper > .column :nth-child(1) {
